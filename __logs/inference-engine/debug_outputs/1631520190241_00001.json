@@ -1,0 +1,53 @@
+{
+    "source": "file:/workspace/images/car.jpg",
+    "context": {
+        "project_id": "project_id",
+        "timecode": "timecode",
+        "interest_region": [],
+        "object_filter": [],
+        "debug": true
+    },
+    "data": {
+        "object": [
+            {
+                "bbox": [
+                    308.64215087890625,
+                    216.21035766601562,
+                    104.54769897460938,
+                    69.08831787109375
+                ],
+                "score": 0.9203701615333557,
+                "category": "car"
+            },
+            {
+                "bbox": [
+                    514.2897338867188,
+                    220.15940856933594,
+                    18.9783935546875,
+                    16.164520263671875
+                ],
+                "score": 0.6858636736869812,
+                "category": "car"
+            },
+            {
+                "bbox": [
+                    533.9547729492188,
+                    221.1584014892578,
+                    14.4185791015625,
+                    10.911895751953125
+                ],
+                "score": 0.45445573329925537,
+                "category": "car"
+            }
+        ]
+    },
+    "action": "process",
+    "prev": [
+        {
+            "worker": "object",
+            "start": 1631520189781,
+            "duration": 448
+        }
+    ],
+    "next": []
+}

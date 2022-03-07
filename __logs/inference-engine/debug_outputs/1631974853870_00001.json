@@ -1,0 +1,41 @@
+{
+    "source": "file:/workspace/images/20d393f65a9807c9.jpg",
+    "context": {
+        "project_id": "0",
+        "timecode": "timecode",
+        "debug": true
+    },
+    "data": {
+        "object": [
+            {
+                "bbox": [
+                    224.34042358398438,
+                    115.5759506225586,
+                    281.6134948730469,
+                    457.6377944946289
+                ],
+                "score": 0.8480464816093445,
+                "category": "person"
+            },
+            {
+                "bbox": [
+                    225.2108612060547,
+                    195.95474243164062,
+                    196.99476623535156,
+                    244.75088500976562
+                ],
+                "score": 0.6960487365722656,
+                "category": "backpack"
+            }
+        ]
+    },
+    "action": "process",
+    "prev": [
+        {
+            "worker": "object",
+            "start": 1631974853039,
+            "duration": 827
+        }
+    ],
+    "next": []
+}

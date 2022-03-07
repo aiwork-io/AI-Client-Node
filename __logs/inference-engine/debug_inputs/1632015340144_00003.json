@@ -1,0 +1,14 @@
+{
+    "source": "file:/workspace/images/614693e98ee63.png",
+    "context": {
+        "project_id": "2",
+        "timecode": "timecode",
+        "debug": true
+    },
+    "next": [
+        "post:http://job_services/api/job/completed"
+    ],
+    "data": {},
+    "prev": [],
+    "action": "process"
+}
