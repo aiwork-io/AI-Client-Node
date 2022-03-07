@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IHDnXynoP3IPVblTNpb7nwZo/lQgFSSTiCYLKwjBclyDRJZU9+/DG+nBY4KKJjrS/wnDww/ervMnCSfZ+hYY0w==",
+  "success": true,
+  "projectFilePath": "/Users/LEE-MAC/Documents/Python/SQ Project/git/misc/aiwork/server/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/LEE-MAC/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/LEE-MAC/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
