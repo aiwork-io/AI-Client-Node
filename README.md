@@ -1,5 +1,5 @@
 # AI-Client-Node
-* This repo contains the codes and documentations of the AI Client Node which is to be installed on computer of users who wish to contribute their CPU/GPU resources to the network
+This repo contains the codes and documentations of the AI Client Node which is to be installed on computer of users who wish to contribute their CPU/GPU resources to the network
 
 ## How to run AI-Client-Node
 
